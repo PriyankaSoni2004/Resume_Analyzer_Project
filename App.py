@@ -32,7 +32,7 @@ import nltk
 nltk.data.path.append("")
 
 # Download stopwords (if not already downloaded)
-nltk.download('stopwords')
+#nltk.download('stopwords')
 
 
 ###### Preprocessing functions ######
